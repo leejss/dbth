@@ -1,4 +1,3 @@
-import { add } from "./a";
-import { boo } from "./b";
+import debounce from "./debounce";
 
-export { add, boo };
+export { debounce };
